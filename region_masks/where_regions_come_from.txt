@@ -1,7 +1,5 @@
 OLC Nodes
 
-
-
 Amygdala - Basolateral nucleus complex: BL_BLV + BLN_BL_BLD+BLI + BLN_BM + BLN-La, Central nucleus: CEN 
 
 Tyszka high resolution amygdala atlas: https://osf.io/hksa6/
@@ -24,13 +22,18 @@ Ch. 1-3 includes the septum, horizontal limb of diagonal band. Ch. 4 is sublenti
 
 Ventral Putamen - harvard oxford putamen mask below the MNI z=-1 line (converted from Talairach z=2, division line from reference below) 
 Di Martino A, et al., 2008 Dec;18(12):2735-47. doi: 10.1093/cercor/bhn041. Epub 2008 Apr 9. PMID: 18400794.
+
+CMA (cingulate motor area) - neurologist hand drawn regions based on MNI coordinates relative to midline and location of SMA
  
 M1 - upper limb area of Brainnetome atlas threshold 25% (A4ul_l 57, A4ul_r 58)
 Brainnetome atlas: https://atlas.brainnetome.org/bnatlas.html
 
+--------------------------------------------------------------------------------
+
 CLC Nodes 
 
-Dorsal putamen - same as above 
+Dorsal putamen - harvard oxford putamen mask above the MNI z=-1 line (converted from Talairach z=2, division line from reference below) 
+Di Martino A, et al., 2008 Dec;18(12):2735-47. doi: 10.1093/cercor/bhn041. Epub 2008 Apr 9. PMID: 18400794. 
 
 Subthalamic Nucleus - STH 16
 Pauli and Tyszka subcortical atlas: https://osf.io/jkzwp/ 

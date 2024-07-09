@@ -1,13 +1,19 @@
-# asap_7T_resting
+# SKIP_highres_FC
 
-Collection of human brain masks for posited open-loop and closed-loop motor circuit nodes in 2mm MNI space. Mask descriptions found in where_masks_come_from.txt. Can be used with included code to identify resting-state seed-to-voxel connectivity.
+Tools to process and analyze the **S**ocal **K**inesia and **I**ncentivization for **P**arkinson's Disease (SKIP) highres FC datset: https://openneuro.org/datasets/ds005264/versions/1.0.0
+Repository contains code and mask collection for mapping open- and closed-loop motor networks at rest with ultra-high field, multi-echo EPI data. 
 
-In non-human primates, separable "open-loop" and "closed-loop" motor circuits have been identified via rabies virus tracing. In Parkinson's Disease, the closed-loop is compromised via degredation of the dorsal putamen. Preserved open-loop circuitry in the human brain may explain paradoxical kinesia, or the phenomenon where PD patients display enhanced movement in fight-or-flight (emotion-driven) situations. 
+More information about SKIP can be found here: https://socalkinesia.org/
 
-See:
-Kelly, R. M., & Strick, P. L. (2004). Macro-architecture of basal ganglia loops with the cerebral cortex: use of rabies virus to reveal multisynaptic circuits. Progress in brain research, 143, 447-459.
+If used, please cite: 
+
+Dundon, N. M., Rizor, E., Stasiak, J., Wang, J., Sabugo, K., Villaneuva, C., Barandon, P., Bostan, A. C., Lapate, R. C., & Grafton, S. T. (2024). Dissociation of novel open loop from ventral putamen to motor areas from classic closed loop in humans II: Task-based function. bioRxiv, 2024-06.
+
+# Why study "open" and "closed" loop motor circuits? 
+In non-human primates, separable "open-loop" and "closed-loop" motor circuits have been identified via rabies virus tracing. In Parkinson's Disease (PD), the closed-loop is compromised via degredation of the dorsal putamen connectivity. Preserved open-loop circuitry in the human brain may explain paradoxical kinesia, or the phenomenon where PD patients display enhanced movement in emotionally arousing situations. If identified, the open-loop circuit may be a potential target for PD therapy. 
 
 Posited open-loop circuit:
 
-
 ![olc_conn](https://github.com/ejrise/asap_7T_resting/assets/56900072/c62bc2d4-d0f4-407e-87b5-edb54e347a1a)
+
+This research was funded in whole (or in part) by Aligning Science Across Parkinson's ASAP-020-519 through the Michael J. Fox Foundation for Parkinson's Research (MJFF).

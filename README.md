@@ -1,12 +1,14 @@
 # SKIP_highres_FC
 
-Tools to process and analyze the **S**ocal **K**inesia and **I**ncentivization for **P**arkinson's Disease (SKIP) highres FC datset: https://openneuro.org/datasets/ds005264/versions/1.0.0
-
-Repository contains code and mask collection for mapping open- and closed-loop motor networks at rest with ultra-high field, multi-echo EPI data. 
+Tools to process and analyze the **S**ocal **K**inesia and **I**ncentivization for **P**arkinson's Disease (SKIP) highres FC datset: https://doi.org/10.18112/openneuro.ds005264.v1.0.0
 
 More information about SKIP can be found here: https://socalkinesia.org/
 
+Repository contains code and mask collection for mapping open- and closed-loop motor networks at rest with ultra-high field, multi-echo EPI data. This resource was used to generate results for: Rizor et al., 2024, Dissociation of putative open loop circuit from ventral putamen to motor cortical areas in humans I: high-resolution connectomics. For information on how to process data using this code, please refer to script_pipeline.txt
+
 If used, please cite: 
+
+Rizor, E., Dundon, N. M., Wang, J., Stasiak, J., Li, T., Bostan, A. C., Lapate, R. C., & Grafton, S. T. (2024). Dissociation of novel open loop from ventral putamen to motor areas from classic closed loop in humans I: high-resolution connectomics. bioRxiv. https://doi.org/10.1101/2024.08.28.610129 
 
 Dundon, N. M., Rizor, E., Stasiak, J., Wang, J., Sabugo, K., Villaneuva, C., Barandon, P., Bostan, A. C., Lapate, R. C., & Grafton, S. T. (2024). Dissociation of novel open loop from ventral putamen to motor areas from classic closed loop in humans II: Task-based function. bioRxiv, 2024-06.
 
